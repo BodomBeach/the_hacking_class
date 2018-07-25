@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Une app de cours en ligne, pour chaque cours, plusieurs élèves peuvent s'inscrire.
 
-Things you may want to cover:
+TO RUN, execute these 3 commands:
+* bundle install
+* rails db:migrate
+* rails db:seed
 
-* Ruby version
 
-* System dependencies
+ruby 2.5.1
+Configuration SQLite3 DB
+SWe recommend you to test seed with SQLiteStudio or DB Browser for SQLite
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Made with love by THP GRENOBLE :
+BALLU Tom
+BERTIN Nicolas
+BOURGOIN Ludovic
